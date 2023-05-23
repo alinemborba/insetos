@@ -1,0 +1,73 @@
+header {
+	padding: 20px 0;
+}
+
+body {
+	font-family: 'Poppins', sans-serif;
+}
+
+.caixa {
+	position: relative;
+	width: 940px;
+	margin: 0 auto;
+}
+
+nav {
+	position: absolute;
+	top: 110px;
+	right: 0;
+}
+
+nav li {
+	display: inline;
+	margin: 0 0 0 15px;
+}
+
+nav a {
+	text-transform: uppercase;
+	color: #000000;
+	font-size: 20px;
+	text-decoration: none;
+}
+
+footer {
+	text-align: center;
+	padding: 40px 0;
+}
+
+
+
+/* css da página inicial */
+.banner {
+    
+}
+
+.img {
+text-align: center;
+}
+
+.titulo-principal {
+	text-align: left;
+	font-size: 42pt;
+	margin: 0 0 1em;
+	clear: left;
+	color:#0f0f0f;
+}
+
+.principal {
+	padding: 3em 0;
+	background: #FEFEFE;
+	width: 940px;
+	margin: 0 auto;
+	font-size: 18pt;
+}
+
+.principal p {
+	margin: 0 0 1em;
+	color:#0f0f0f;
+}
+
+.principal em {
+	font-style: italic;
+}
+
